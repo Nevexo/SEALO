@@ -1,0 +1,14 @@
+{
+    "info":{
+      "version":2,
+      "name":"SEALO2",
+      "build":1,
+      "motd":"Now with cogs!"
+    },
+    "tokens":{
+        "token":""
+    },
+    "admins":{
+        "admins":101742709093445632
+    }
+}
